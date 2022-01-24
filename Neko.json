@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Neko Astolfo UwU#7812",
         "name": "Neko",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "updater": "https:\/\/raw.githubusercontent.com\/neko-astolfo-uwu\/idk-theme\/main\/Neko.json"
     },
     "background": {},
@@ -17,7 +17,7 @@
         "active_channel": -1682039
     },
     "colors": {
-        "primary_700": -4566820,
+        "primary_700": -2391816,
         "primary_dark_400": -32539,
         "primary_dark_660": -692299845,
         "primary_dark_800": -6209181,
