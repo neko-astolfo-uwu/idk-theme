@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Neko Astolfo UwU#7812",
         "name": "Neko",
-        "version": "1.0.3",
+        "version": "1.0.69",
         "updater": "https:\/\/raw.githubusercontent.com\/neko-astolfo-uwu\/idk-theme\/main\/Neko.json"
     },
     "background": {},
@@ -10,7 +10,7 @@
         "*": "https:\/\/cdn.discordapp.com\/attachments\/909854184822677524\/931107766062444595\/MinecraftRegular-Bmg3.otf"
     },
     "simple_colors": {
-        "accent": -2990200,
+        "accent": -2665598,
         "background_secondary": -7327406,
         "mention_highlight": -6791757,
         "active_channel": -1682039,
@@ -20,7 +20,6 @@
         "primary_700": -7385692,
         "primary_dark_400": -32539,
         "primary_dark_660": -692299845,
-        "primary_dark_800": -6209181,
         "primary_dark_360": -1682039,
         "uikit_btn_bg_color_selector_red": -1682039,
         "uikit_btn_bg_color_selector_green": -1682039,
@@ -32,10 +31,11 @@
         "white_500": -1468236,
         "white": -1219357,
         "white_1": -8110684,
-        "dim_foreground_material_light": -5549925,
         "white_alpha_30": -5549925,
         "primary_100": -3724191,
-        "primary_800": -10208151
+        "primary_800": -10208151,
+        "primary_500": -10208151,
+        "dim_foreground_material_light": -5549925
     },
     "drawable_tints": {
         "drawable_button_grey": -6881211,
