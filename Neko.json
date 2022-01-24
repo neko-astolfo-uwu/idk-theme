@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Neko Astolfo UwU#7812",
         "name": "Neko",
-        "version": "1.0.8",
+        "version": "1.0.8.2",
         "updater": "https:\/\/raw.githubusercontent.com\/neko-astolfo-uwu\/idk-theme\/main\/Neko.json"
     },
     "background": {},
@@ -61,7 +61,10 @@
         "drawable_file_selection_indicator_btn": -2656257,
         "ic_channel_text_locked": -1682039,
         "ic_link_white_24dp": -2656257,
-        "ic_file_upload_24dp": -2656257
+        "ic_file_upload_24dp": -2656257,
+        "ic_account_circle_white_a60_24dp": -2656257,
+        "ic_visibility_white_24dp": -2656257,
+        "ic_content_copy_white_a60_24dp": -2656257
     },
     "raws": {}
 }
