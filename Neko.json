@@ -1,0 +1,65 @@
+{
+    "manifest": {
+        "author": "Neko Astolfo UwU#7812",
+        "name": "Neko",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/909854184822677524\/931107766062444595\/MinecraftRegular-Bmg3.otf"
+    },
+    "simple_colors": {
+        "accent": -2990200,
+        "background": -10208151,
+        "background_secondary": -7327406,
+        "mention_highlight": -6791757,
+        "active_channel": -1682039
+    },
+    "colors": {
+        "primary_700": -6999882,
+        "primary_dark_400": -32539,
+        "primary_dark_660": -692299845,
+        "primary_dark_800": -6209181,
+        "primary_dark_360": -1682039,
+        "uikit_btn_bg_color_selector_red": -1682039,
+        "uikit_btn_bg_color_selector_green": -1682039,
+        "uikit_btn_bg_color_selector_brand": -1682039,
+        "uikit_settings_item_text_color_dark": -2656257,
+        "uikit_settings_item_text_color_light": -6594633,
+        "primary_630": -15450265,
+        "primary_dark_300": -2656257,
+        "white_500": -1468236,
+        "white": -1219357,
+        "white_1": -8110684,
+        "dim_foreground_material_light": -5549925,
+        "white_alpha_30": -5549925,
+        "primary_100": -3724191
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -6881211,
+        "ic_channel_text": -2086293,
+        "drawable_button_red": -1682039,
+        "drawable_overlay_channels_selected_dark": -1682039,
+        "drawable_overlay_channels_dark": -1682039,
+        "ic_check_green_24dp": -2490290,
+        "ic_remove_friend_red_24dp": -8110684,
+        "ic_group_join": -1682039,
+        "ic_guild_invite_24dp": -8110684,
+        "ic_guild_settings_24dp": -8110684,
+        "ic_add_friend_plus": -2673622,
+        "ic_sidebar_pins_off_dark_24dp": -2656257,
+        "ic_sidebar_pins_on_dark_24dp": -2656257,
+        "ic_sidebar_notifications_off_dark_24dp": -2656257,
+        "ic_sidebar_notifications_on_dark_24dp": -2656257,
+        "ic_guild_notifications_24dp": -2656257,
+        "ic_notifications_white_24dp": -2656257,
+        "ic_notifications_white_a60_24dp": -2656257,
+        "ic_file_download_grey_24dp": -2656257,
+        "ic_file_download_white_24dp": -1527298,
+        "drawable_file_selection_indicator_btn": -2656257,
+        "ic_channel_text_locked": -1682039,
+        "ic_link_white_24dp": -2656257,
+        "ic_file_upload_24dp": -2656257
+    },
+    "raws": {}
+}
