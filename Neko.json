@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Neko Astolfo UwU#7812",
         "name": "Neko",
-        "version": "1.0.9",
+        "version": "1.1.0.1",
         "updater": "https:\/\/raw.githubusercontent.com\/neko-astolfo-uwu\/idk-theme\/main\/Neko.json"
     },
     "background": {},
@@ -14,7 +14,8 @@
         "background_secondary": -7327406,
         "mention_highlight": -6791757,
         "active_channel": -1682039,
-        "background": -10208151
+        "background": -10208151,
+        "blocked_bg": -10207624
     },
     "colors": {
         "primary_700": -7385692,
@@ -38,7 +39,8 @@
         "dim_foreground_material_light": -5549925,
         "abc_btn_colored_borderless_text_material": -32539,
         "status_grey_200": -32539,
-        "abc_decor_view_status_guard": -14303143
+        "abc_decor_view_status_guard": -14303143,
+        "black_alpha_10": -6594633
     },
     "drawable_tints": {
         "drawable_button_grey": -6881211,
@@ -85,7 +87,10 @@
         "ic_status_24dp": -14303143,
         "ic_archived_clock_light": -1682039,
         "ic_archived_clock_dark": -1682039,
-        "ic_uploads_image_dark": -1682039
+        "ic_uploads_image_dark": -1682039,
+        "file_item_selection_indicator_btn": -1682039,
+        "ic_call_indicator_streaming_16dp": -2656257,
+        "ic_call_indicator_voice_16dp": -2656257
     },
     "raws": {}
 }
