@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Neko Astolfo UwU#7812",
         "name": "Neko",
-        "version": "1.1.0.1",
+        "version": "1.1.0.2",
         "updater": "https:\/\/raw.githubusercontent.com\/neko-astolfo-uwu\/idk-theme\/main\/Neko.json"
     },
     "background": {},
@@ -39,8 +39,15 @@
         "dim_foreground_material_light": -5549925,
         "abc_btn_colored_borderless_text_material": -32539,
         "status_grey_200": -32539,
-        "abc_decor_view_status_guard": -14303143,
-        "black_alpha_10": -6594633
+        "black_alpha_10": -6594633,
+        "ripple_material_light": -8110684,
+        "material_grey_50": -10208151,
+        "primary_text_default_material_light": -32539,
+        "primary_700_alpha_60": -5874746,
+        "primary_600": -8110684,
+        "grey_unread": -32539,
+        "mtrl_btn_ripple_color": -10208151,
+        "mtrl_btn_text_btn_ripple_color": -10208151
     },
     "drawable_tints": {
         "drawable_button_grey": -6881211,
@@ -64,7 +71,7 @@
         "ic_file_download_grey_24dp": -2656257,
         "ic_file_download_white_24dp": -1527298,
         "drawable_file_selection_indicator_btn": -2656257,
-        "ic_channel_text_locked": -1682039,
+        "ic_channel_text_locked": -1468236,
         "ic_link_white_24dp": -2656257,
         "ic_file_upload_24dp": -2656257,
         "ic_account_circle_white_a60_24dp": -2656257,
@@ -73,24 +80,27 @@
         "ic_transfer_red_24dp": -1527298,
         "ic_ban_red_24dp": -1527298,
         "ic_x_red_24dp": -1527298,
-        "ic_thread_white_24dp": -2656257,
+        "ic_thread_white_24dp": -1468236,
         "ic_notifications_settings_white_a60_24dp": -2656257,
         "ic_channel_text_nsfw": -1468236,
         "ic_direct_message_header": -1468236,
         "ic_channel_announcements": -1468236,
         "ic_chat_message_white_24dp": -1468236,
         "ic_group_message_header": -1468236,
-        "ic_status_invisible_16dp": -65309,
         "ic_disable_guild_communication_red_24dp": -1527298,
         "ic_settings_24dp": -1527298,
         "ic_settings_white_a60_24dp": -531457,
-        "ic_status_24dp": -14303143,
         "ic_archived_clock_light": -1682039,
         "ic_archived_clock_dark": -1682039,
         "ic_uploads_image_dark": -1682039,
         "file_item_selection_indicator_btn": -1682039,
         "ic_call_indicator_streaming_16dp": -2656257,
-        "ic_call_indicator_voice_16dp": -2656257
+        "ic_call_indicator_voice_16dp": -2656257,
+        "ic_channel_topic_ellipsis_dark": -2656257,
+        "ic_perk_lock": -2656257,
+        "ic_perk_tier_3_unboosted": -2656257,
+        "ic_channel_text_grey_18dp": -2656257,
+        "ic_thread": -1468236
     },
     "raws": {}
 }
