@@ -2,12 +2,12 @@
     "manifest": {
         "author": "Neko Astolfo UwU#7812",
         "name": "Neko",
-        "version": "1.1.0.2",
+        "version": "1.1.1.0",
         "updater": "https:\/\/raw.githubusercontent.com\/neko-astolfo-uwu\/idk-theme\/main\/Neko.json"
     },
     "background": {},
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/909854184822677524\/931107766062444595\/MinecraftRegular-Bmg3.otf"
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/811255667469582420\/951782324683563028\/FredokaOne-Regular.ttf"
     },
     "simple_colors": {
         "accent": -2665598,
