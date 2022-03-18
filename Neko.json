@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Neko Astolfo UwU#7812",
         "name": "Neko",
-        "version": "1.1.1.0",
+        "version": "1.3.0",
         "updater": "https:\/\/raw.githubusercontent.com\/neko-astolfo-uwu\/idk-theme\/main\/Neko.json"
     },
     "background": {},
@@ -11,7 +11,7 @@
     },
     "simple_colors": {
         "accent": -2665598,
-        "background_secondary": -7327406,
+        "background_secondary": -8367467,
         "mention_highlight": -6791757,
         "active_channel": -1682039,
         "background": -10208151,
@@ -47,7 +47,8 @@
         "primary_600": -8110684,
         "grey_unread": -32539,
         "mtrl_btn_ripple_color": -10208151,
-        "mtrl_btn_text_btn_ripple_color": -10208151
+        "mtrl_btn_text_btn_ripple_color": -10208151,
+        "transparent": -10208151
     },
     "drawable_tints": {
         "drawable_button_grey": -6881211,
