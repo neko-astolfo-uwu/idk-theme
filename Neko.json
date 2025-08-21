@@ -2,12 +2,12 @@
     "manifest": {
         "author": "Neko Astolfo UwU#7812",
         "name": "Neko",
-        "version": "1.3.0",
+        "version": "1.3.1",
         "updater": "https:\/\/raw.githubusercontent.com\/neko-astolfo-uwu\/idk-theme\/main\/Neko.json"
     },
     "background": {},
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/811255667469582420\/951782324683563028\/FredokaOne-Regular.ttf"
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/1041075853989265450\/1068931941891592353\/Fredoka_One_MOD_by_zFontTool.ttf"
     },
     "simple_colors": {
         "accent": -2665598,
@@ -15,12 +15,12 @@
         "mention_highlight": -6791757,
         "active_channel": -1682039,
         "background": -10208151,
-        "blocked_bg": -10207624
+        "blocked_bg": -10207624,
+        "statusbar": -10208151
     },
     "colors": {
         "primary_700": -7385692,
         "primary_dark_400": -32539,
-        "primary_dark_660": -692299845,
         "primary_dark_360": -1682039,
         "uikit_btn_bg_color_selector_red": -1682039,
         "uikit_btn_bg_color_selector_green": -1682039,
@@ -48,7 +48,9 @@
         "grey_unread": -32539,
         "mtrl_btn_ripple_color": -10208151,
         "mtrl_btn_text_btn_ripple_color": -10208151,
-        "transparent": -10208151
+        "transparent": -10208151,
+        "primary_dark_200": -1682039,
+        "white_800": -1336683
     },
     "drawable_tints": {
         "drawable_button_grey": -6881211,
@@ -101,7 +103,8 @@
         "ic_perk_lock": -2656257,
         "ic_perk_tier_3_unboosted": -2656257,
         "ic_channel_text_grey_18dp": -2656257,
-        "ic_thread": -1468236
+        "ic_thread": -1468236,
+        "drawable_chat_embed_dark_background": -14303143
     },
     "raws": {}
 }
